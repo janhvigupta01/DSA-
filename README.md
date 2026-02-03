@@ -18,12 +18,14 @@ Sum Pair closest to target gfg
 3005. Count Elements With Maximum Frequency
 205. Isomorphic Strings
 7. Reverse Integer
-387. First Unique Character in a String
-388. First Repeated Character gfg
-415. Add Strings
-8. String to Integer (atoi) leetcode
 valid anagram
 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 Maximum Average Subarray I
 maximum subarray
+8. String to Integer (atoi) leetcode
 680. Valid Palindrome II leetcode
+388. First Repeated Character gfg
+387. First Unique Character in a String
+415. Add Strings
+151. Reverse Words in a String
+1903. Largest Odd Number in String
