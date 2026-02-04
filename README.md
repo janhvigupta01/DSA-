@@ -22,6 +22,8 @@ valid anagram
 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 Maximum Average Subarray I
 maximum subarray
+
+///string
 8. String to Integer (atoi) leetcode
 680. Valid Palindrome II leetcode
 388. First Repeated Character gfg
@@ -29,3 +31,8 @@ maximum subarray
 415. Add Strings
 151. Reverse Words in a String
 1903. Largest Odd Number in String
+      
+///2d matrix
+Print Matrix in snake Pattern gfg
+Matrix Boundary Traversal
+54. Spiral Matrix
