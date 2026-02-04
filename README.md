@@ -36,3 +36,4 @@ maximum subarray
 Print Matrix in snake Pattern gfg
 Matrix Boundary Traversal
 54. Spiral Matrix
+867. Transpose Matrix
