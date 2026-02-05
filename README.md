@@ -31,6 +31,13 @@ maximum subarray
 415. Add Strings
 151. Reverse Words in a String
 1903. Largest Odd Number in String
+
+//recursion
+factorial
+fibnacci 
+climbing stairs
+binary search
+
       
 ///2d matrix
 Print Matrix in snake Pattern gfg
