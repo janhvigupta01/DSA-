@@ -12,7 +12,7 @@ Minimum swaps and K together
 Subset Sum Problem
 Aggressive cows
 Koko Bananas
-Sum Pair closest to target gfg
+
 930. Binary Subarrays With Sum
 209. Minimum Size Subarray Sum
 3005. Count Elements With Maximum Frequency
@@ -22,6 +22,10 @@ valid anagram
 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold
 Maximum Average Subarray I
 maximum subarray
+
+//two pointer
+Common in 3 Sorted Arrays
+Sum Pair closest to target gfg
 
 ///string
 8. String to Integer (atoi) leetcode
@@ -37,7 +41,7 @@ factorial
 fibnacci 
 climbing stairs
 binary search
-
+palinedrome
       
 ///2d matrix
 Print Matrix in snake Pattern gfg
