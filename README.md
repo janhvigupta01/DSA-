@@ -52,3 +52,4 @@ Matrix Boundary Traversal
 Linked List
 Delete in a Singly Linked List gfg
 237. Delete Node in a linked list
+876. Middle of the Linked List
