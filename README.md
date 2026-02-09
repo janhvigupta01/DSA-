@@ -48,3 +48,7 @@ Print Matrix in snake Pattern gfg
 Matrix Boundary Traversal
 54. Spiral Matrix
 867. Transpose Matrix
+
+Linked List
+Delete in a Singly Linked List gfg
+237. Delete Node in a linked list
