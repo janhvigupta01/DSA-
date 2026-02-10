@@ -53,3 +53,6 @@ Linked List
 Delete in a Singly Linked List gfg
 237. Delete Node in a linked list
 876. Middle of the Linked List
+234. Palindrome Linked List
+206. Reverse Linked List
+141. Linked List Cycle
