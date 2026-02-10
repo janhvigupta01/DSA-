@@ -61,3 +61,4 @@ Delete in a Singly Linked List gfg
 160. Intersection of Two Linked Lists
 19. Remove Nth Node From End of List
 328. Odd Even Linked List
+24. Swap Nodes in Pairs
