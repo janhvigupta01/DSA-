@@ -56,3 +56,4 @@ Delete in a Singly Linked List gfg
 234. Palindrome Linked List
 206. Reverse Linked List
 141. Linked List Cycle
+83. Remove Duplicates from Sorted List
