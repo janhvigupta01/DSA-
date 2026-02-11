@@ -62,3 +62,4 @@ Delete in a Singly Linked List gfg
 19. Remove Nth Node From End of List
 328. Odd Even Linked List
 24. Swap Nodes in Pairs
+142. Linked List Cycle ii
