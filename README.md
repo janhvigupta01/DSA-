@@ -68,3 +68,4 @@ Delete in a Singly Linked List gfg
 stack
 20. Valid Parentheses
 Reverse a Stack gfg
+225. Implement Stack using Queues
