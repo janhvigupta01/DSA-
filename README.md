@@ -69,3 +69,7 @@ stack
 20. Valid Parentheses
 Reverse a Stack gfg
 225. Implement Stack using Queues
+496. Next Greater Element I leetcode
+Next Greater Element gfg
+Stack using Queue gfg
+Delete Mid of a Stack
