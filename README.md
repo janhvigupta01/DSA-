@@ -63,3 +63,8 @@ Delete in a Singly Linked List gfg
 328. Odd Even Linked List
 24. Swap Nodes in Pairs
 142. Linked List Cycle ii
+
+
+stack
+20. Valid Parentheses
+Reverse a Stack gfg
