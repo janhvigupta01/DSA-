@@ -77,7 +77,11 @@ Delete Mid of a Stack
 735. Asteroid Collision leetcode
 Reverse first K of a Queue gfg
 Stream First Non-repeating gfg
+
+//tree
 Count Number of Nodes in a Binary Tree gfg
 Minimum Depth of a Binary Tree
 Maximum Depth Of Binary Tree
-Preorder Traversal
+Preorder Traversal gfg
+94. Binary Tree Inorder Traversal
+Postorder Traversal gfg
