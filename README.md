@@ -85,3 +85,5 @@ Maximum Depth Of Binary Tree
 Preorder Traversal gfg
 94. Binary Tree Inorder Traversal
 Postorder Traversal gfg
+100. Same Tree leetcode
+226. Invert Binary Tree leetcode
