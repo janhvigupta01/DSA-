@@ -87,3 +87,4 @@ Preorder Traversal gfg
 Postorder Traversal gfg
 100. Same Tree leetcode
 226. Invert Binary Tree leetcode
+543. Diameter of Binary Tree leetcode
