@@ -94,3 +94,5 @@ Right View of Binary Tree gfg
 Left View of Binary Tree gfg
 199. Binary Tree Right Side View leetcode
 Top View of Binary Tree GFG
+K distance from root gfg
+Bottom View of Binary Tree gfg
