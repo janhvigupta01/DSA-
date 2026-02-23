@@ -96,3 +96,5 @@ Left View of Binary Tree gfg
 Top View of Binary Tree GFG
 K distance from root gfg
 Bottom View of Binary Tree gfg
+700. Search in a Binary Search Tree
+938. Range Sum of BST leetcode
