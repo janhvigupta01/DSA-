@@ -98,3 +98,5 @@ K distance from root gfg
 Bottom View of Binary Tree gfg
 700. Search in a Binary Search Tree
 938. Range Sum of BST leetcode
+236. Lowest Common Ancestor of a Binary Tree
+108. Convert Sorted Array to Binary Search Tree
