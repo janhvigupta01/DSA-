@@ -102,3 +102,5 @@ Bottom View of Binary Tree gfg
 108. Convert Sorted Array to Binary Search Tree
 653. Two Sum IV - Input is a BST leetcode
 701. Insert into a Binary Search Tree
+235. Lowest Common Ancestor of a Binary Search Tree
+98. Validate Binary Search Tree
