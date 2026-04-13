@@ -1,0 +1,18 @@
+class Solution {
+public:
+    vector<double> internalAngles(vector<int>& sides) {
+        double a = sides[0], b=sides[1], c=sides[2];
+        if(a+b<=c || a+c<=b || b+c<=a){
+            return {};
+        }
+        auto clamp =[](double x){
+            return max(-1.0,min(1.0,x));
+        };
+        double A = acos(clamp((b*b+c*c-a*a)/(2*b*c)))*180.0/M_PI;
+        double B = acos(clamp((a*a+c*c-b*b)/(2*a*c)))*180.0/M_PI;
+        double C = 180-A-B;
+        vector<double>ans={A,B,C};
+        sort(ans.begin(),ans.end());
+        return ans;
+    }
+};
