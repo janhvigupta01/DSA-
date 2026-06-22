@@ -1,0 +1,31 @@
+class Solution {
+  public:
+    long long m = 1000000007;
+
+    long long power(long long a, long long b){
+        long long res = 1;
+        long long base = a;
+
+        while(b > 0){
+            if(b & 1) res = (res * base) % m;
+            base = (base * base) % m;
+            b >>= 1;
+        }
+        return res;
+    }
+
+    long long comb(int n, int r){
+        long long num = 1, deno = 1;
+
+        for(int i = 0; i < r; i++){
+            num = (num * (n - i)) % m;
+            deno = (deno * (i + 1)) % m;
+        }
+
+        return (num * power(deno, m - 2)) % m;
+    }
+
+    int computeValue(int n) {
+        return comb(2 * n, n);
+    }
+};
