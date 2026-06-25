@@ -1,0 +1,25 @@
+class Solution {
+  public:
+    int longestKSubstr(string &s, int k) {
+        // code here
+        int i=0,j=0;
+        int ans=INT_MIN;
+        int d=0;
+        int n=s.size();
+        unordered_map<char,int>m;
+        while(i<n){
+            m[s[i]]++;
+            if(m[s[i]]==1) d++;
+            while(j<i && d>k){
+                m[s[j]]--;
+                if(m[s[j]]==0)d--;
+                j++;
+            }
+            if(d==k){
+                ans=max(ans,i-j+1);
+            }
+            i++;
+        }
+        return (ans!=INT_MIN)?ans:-1;
+    }
+};
