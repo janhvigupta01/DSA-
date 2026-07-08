@@ -1,0 +1,28 @@
+class Solution {
+public:
+bool dfs(vector<vector<int>>& grid1, vector<vector<int>>& grid2,int i,int j){
+    int m=grid1.size();
+        int n=grid1[0].size();
+    if(i>=m || j>=n || i<0 || j<0 || grid2[i][j]==0)return true;
+    grid2[i][j]=0;
+    bool flag=(grid1[i][j]==1);
+    bool a=dfs(grid1,grid2,i,j+1);
+    bool b=dfs(grid1,grid2,i+1,j);
+    bool c=dfs(grid1,grid2,i-1,j);
+    bool d=dfs(grid1,grid2,i,j-1);
+    return a & b & c & c & d & flag;
+}
+    int countSubIslands(vector<vector<int>>& grid1, vector<vector<int>>& grid2) {
+        int m=grid1.size();
+        int n=grid1[0].size();
+        int c=0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid2[i][j]==1){
+                    if(dfs(grid1,grid2,i,j))c++;
+                }
+            }
+        }
+        return c;
+    }
+};
