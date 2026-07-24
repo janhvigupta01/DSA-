@@ -109,5 +109,10 @@ summer pep
 treee
 graph
 dp
+300. Longest Increasing Subsequence
+746. Min Cost Climbing Stairs
+70. Climbing Stairs
+989. Add to Array-Form of Integer
+213. House Robber II
 treee segment
 hjjyyu
